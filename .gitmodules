@@ -1,0 +1,3 @@
+[submodule "NierPDK"]
+	path = NierPDK
+	url = git@github.com:REDxEYE/NierPDK.git
